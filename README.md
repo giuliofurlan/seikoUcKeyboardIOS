@@ -4,7 +4,7 @@ It is very useful just to change the watch's contrast
 
 "works" with:
 
-- seiko data 200
+- seiko data 2000
 - seiko uc 2000
 - seiko uc 3000
 - seiko spacetronic
